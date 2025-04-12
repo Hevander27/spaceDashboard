@@ -39,7 +39,10 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 
-https://github.com/user-attachments/assets/ecc235a7-545d-427e-a366-e3eb0c9c027b
+
+
+https://github.com/user-attachments/assets/97ee3b28-75fd-4e2a-b86b-5916e8d0bc2d
+
 
 
 
